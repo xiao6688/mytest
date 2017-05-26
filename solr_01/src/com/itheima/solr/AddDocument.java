@@ -21,7 +21,7 @@ public class AddDocument {
 		server.add(document);
 		//提交
 		server.commit();
-		System.out.println("添加成功！");
+		System.out.println("添加成功！1111111");
 	}
 	
 	//删除文档对象
